@@ -1,0 +1,19 @@
+.navBarBg{
+    background-color: #026cdf;
+}
+.navBarAdmin{
+    color: #fff !important;
+}
+.chartWrapper{
+    margin-top: 70px;
+}
+.row {
+    background: #f8f9fa;
+    margin-top: 20px;
+  }
+  
+  .col {
+    border: solid 1px #6c757d;
+    padding: 10px;
+  }
+  
